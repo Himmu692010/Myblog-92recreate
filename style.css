@@ -1,0 +1,265 @@
+body
+{
+	background: linear-gradient(to right,rgb(13, 13, 13) 10%,rgb(61, 58, 58) 90%);
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		width: 30%;
+		height: 150px;
+		background-color: wheat;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 3px;
+	color: tomato;
+	font-weight: bold;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+	background-color:rgb(51, 53, 53) ;
+	border-radius: 10px;
+	border-top: 10px solid #AA4465;
+	padding: 10px;
+	float: none;
+	text-align: left;
+	font-family: cursive;
+	color: aliceblue;
+}
+h1{
+	color: orange;
+	font-family:'digital-font-clock';
+}
+h3{
+	font-family: 'Lora', serif;
+	color: teal;
+}
+h4{
+	font-family: 'yellowtail',cursive;
+	color: aquamarine;
+}
+#player1_name , #player2_name
+	{
+		display: inline-block;
+		margin-left: 20px;
+}
+
+#username{
+	font-family: 'Yellowtail', cursive;
+	color: turquoise;
+}
+button{
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+input:hover{
+	background-color: rgb(141, 198, 200);
+}
+.login_div2:hover{
+	border: 5px solid rgb(47, 56, 230);
+	width: 35%;
+}
+.login_div1:hover{
+	border: 5px solid rgb(47, 56, 230);
+	width: 35%;
+}
+#my_div{
+	color: aliceblue;
+	float: left;
+}
+#calculator{
+	background: linear-gradient(to right,rgb(115, 115, 205) 10%,rgb(88, 213, 213) 90%);
+	opacity: 0.8;
+	border-radius: 14px;
+	border-color: aquamarine;
+	border-width: 5px;
+	height: max-content;
+	width: max-content;
+	float:left
+}
+#calculator2{
+	background: linear-gradient(to right,rgb(115, 115, 205) 10%,rgb(88, 213, 213) 90%);
+	opacity: 0.8;
+	border-radius: 14px;
+	border-color: aquamarine;
+	border-width: 5px;
+	height: max-content;
+	width: max-content;
+	float:right
+}
+#calculator:hover{
+	opacity: 1.0;
+	transform: scale(1.1);
+}
+#calculator2:hover{
+	opacity: 1.0;
+	transform: scale(1.1);
+}
+#button1{
+	color: aqua;
+	background-color: darkslategrey;
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+}
+#display{
+	height: 40px;
+	width: 250px;
+}
+#button2{
+	color: aqua;
+	background-color: darkslategrey;
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+}
+#button3{
+	color: aqua;
+	background-color: darkslategrey;
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+}
+#button4{
+	color: aqua;
+	background-color: darkslategrey;
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+}
+#button5{
+	color: aqua;
+	background-color: darkslategrey;
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+}
+#button6{
+	color: aqua;
+	background-color: darkslategrey;
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+}
+#button7{
+	color: aqua;
+	background-color: darkslategrey;
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+}
+#button8{
+	color: aqua;
+	background-color: darkslategrey;
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+}
+#button9{
+	color: aqua;
+	background-color: darkslategrey;
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+}
+#button_clear{
+	color: white;
+	background-color: red;
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+}
+
+#button12 {
+	color: aqua;
+	background-color: darkslategrey;
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+}
+#display2{
+	height: 40px;
+	width: 250px;
+}
+#button22 {
+	color: aqua;
+	background-color: darkslategrey;
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+}
+#button32{
+	color: aqua;
+	background-color: darkslategrey;
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+}
+#button42{
+	color: aqua;
+	background-color: darkslategrey;
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+}
+#button52{
+	color: aqua;
+	background-color: darkslategrey;
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+}
+#button62{
+	color: aqua;
+	background-color: darkslategrey;
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+}
+#button72{
+	color: aqua;
+	background-color: darkslategrey;
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+}
+#button82{
+	color: aqua;
+	background-color: darkslategrey;
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+}
+#button92{
+	color: aqua;
+	background-color: darkslategrey;
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+}
+#button_clear{
+	color: white;
+	background-color: red;
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+}
+
+#input_check_box{
+	background-color: antiquewhite;
+	color: black;
+}
